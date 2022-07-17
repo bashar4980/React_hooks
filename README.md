@@ -6,9 +6,9 @@ React Hooks ..............
   --- then initialize it
   --const [value , setVale] = useState("initialValue");
 
-i)Update State 
+2)Update State 
 -------------
--Updateing for State use  " SetValue " that update our State value
+---Updateing for State use  " SetValue " that update our State value
 ii) Form Handeling
 --------------
 iii)Form Handeling in useState
@@ -23,3 +23,4 @@ iii)Form Handeling in useState
   -} , [dependdency]) 
 
  i) useEffect Example of fatch api is showed(UseEffect.jsx file)
+ ii)https://www.freecodecamp.org/news/fetch-data-react/
