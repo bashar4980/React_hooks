@@ -1,12 +1,13 @@
 
 import './App.css';
-import UseState from './component/UseState';
+import UseEffectExample from './component/UseEffect';
+
 
 function App() {
   return (
     <div className="App">
      <h1>Rect useEffect</h1>
-     <UseState/>
+    <UseEffectExample/>
     </div>
   );
 }
